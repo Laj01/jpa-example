@@ -29,4 +29,5 @@ public class Address {
 
     @Column(nullable = false)
     public String zip;
+
 }
